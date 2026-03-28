@@ -29,6 +29,8 @@ htmlcov/
 
 # Example outputs (generated at runtime)
 examples/_output/
+examples/synthetic_data/
+examples/calibration_output/
 
 # OS
 .DS_Store
